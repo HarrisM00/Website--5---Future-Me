@@ -4,4 +4,6 @@ h1 {
 .scaled {
     height: auto;
     width: 40%;
+    text-align: center;
+
 }
